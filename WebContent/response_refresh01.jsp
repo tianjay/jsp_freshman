@@ -10,6 +10,10 @@
 </head>
 <body>
 	<h5>this is an instance of responce,自动刷新页面</h5>
+	<h3>Response内置对象和request是相互对应的，response内置对象用于响应客户端请求<br>
+	向客户端输出信息；javax.servlet.HttpServiceResponse接口
+	cookie session的信息存放区别
+	</h3>
 </body>
 
 <%
